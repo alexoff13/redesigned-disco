@@ -10,7 +10,7 @@
 Написать эссе, отражающее особенности как минимум 10 уникальных HTTP-заголовков для Request и Response.
 
 ---
-[manjaro.org](www.manjaro.org)
+[manjaro.org](https://manjaro.org)
 ```yaml
 Server: nginx
 Date: Sun, 03 Oct 2021 05:42:26 GMT
